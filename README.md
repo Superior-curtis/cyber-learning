@@ -7,9 +7,9 @@
 | Part | Title | 篇數 |
 |---|---|---|
 | **00** | **Foundations** / 資安基礎 | 5 |
-| **01** | **Linux Essentials** / Linux 基礎 | 0 |
+| **01** | **Linux Essentials** / Linux 基礎 | 9 |
 | **02** | **Networks & Crypto** / 網路與密碼學 | 0 |
-| **03** | **Security+ Core** / Security+ 基礎 | 0 |
+| **03** | **Security+ Core** / Security+ 基礎 | 7 |
 | **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 5 |
 | **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 0 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
@@ -32,17 +32,47 @@
 | 4 | [威脅模型入門](foundations/found-04-threat-modeling.zh.md) | [Threat Modeling for Beginners](foundations/found-04-threat-modeling.en.md) | 2026-08-05 |
 | 5 | [網路與 Web 運作基礎（HTTP / DNS / IP / Port）](foundations/found-05-how-the-web-works.zh.md) | [How the Web Works: HTTP, DNS, IP, and Ports](foundations/found-05-how-the-web-works.en.md) | 2026-08-05 |
 
-## 01 · Linux Essentials / Linux 基礎 (0 篇)
+## 01 · Linux Essentials / Linux 基礎 (9 篇)
 
 > The Linux skills every security practitioner needs.
+
+### Linux / Linux 基礎  (9 篇)
+
+> Filesystem, permissions, processes, logs, hardening — the Linux every security pro needs.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [為什麼資安世界被 Linux 統治](linux/linux-01-why-linux.zh.md) | [Why Linux Rules Security](linux/linux-01-why-linux.en.md) | 2026-08-05 |
+| 2 | [檔案系統與目錄結構](linux/linux-02-filesystem.zh.md) | [The Linux Filesystem: Where Everything Lives](linux/linux-02-filesystem.en.md) | 2026-08-05 |
+| 3 | [權限與擁有者（chmod / chown）](linux/linux-03-permissions.zh.md) | [Permissions & Ownership (chmod / chown)](linux/linux-03-permissions.en.md) | 2026-08-05 |
+| 4 | [使用者、群組與 sudo](linux/linux-04-users-groups.zh.md) | [Users, Groups, and sudo](linux/linux-04-users-groups.en.md) | 2026-08-05 |
+| 5 | [程序、服務與 systemd](linux/linux-05-processes-services.zh.md) | [Processes, Services, and systemd](linux/linux-05-processes-services.en.md) | 2026-08-05 |
+| 6 | [Shell 指令速成（給資安人）](linux/linux-06-shell-essentials.zh.md) | [Shell Essentials for Security Work](linux/linux-06-shell-essentials.en.md) | 2026-08-05 |
+| 7 | [日誌與稽核（/var/log、journalctl）](linux/linux-07-logs-auditing.zh.md) | [Logs & Auditing (/var/log, journalctl)](linux/linux-07-logs-auditing.en.md) | 2026-08-05 |
+| 8 | [命令列網路工具（ip / ss / ports）](linux/linux-08-networking-cli.zh.md) | [Networking on the Command Line (ip / ss / ports)](linux/linux-08-networking-cli.en.md) | 2026-08-05 |
+| 9 | [Linux 加固基礎](linux/linux-09-hardening-basics.zh.md) | [Linux Hardening Basics](linux/linux-09-hardening-basics.en.md) | 2026-08-05 |
 
 ## 02 · Networks & Crypto / 網路與密碼學 (0 篇)
 
 > TCP/IP, TLS, Wi-Fi, and the cryptography behind password storage.
 
-## 03 · Security+ Core / Security+ 基礎 (0 篇)
+## 03 · Security+ Core / Security+ 基礎 (7 篇)
 
 > The CompTIA Security+ exam domains as a curriculum.
+
+### Security+ / Security+ 基礎  (7 篇)
+
+> The CompTIA Security+ exam domains as a plain-language curriculum.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [Security+ 考什麼：Domain 地圖](security-plus/secplus-01-overview.zh.md) | [What Security+ Covers: The Domain Map](security-plus/secplus-01-overview.en.md) | 2026-08-05 |
+| 2 | [一般安全概念（AAA、MFA、最小權限）](security-plus/secplus-02-general-concepts.zh.md) | [General Security Concepts (AAA, MFA, Least Privilege)](security-plus/secplus-02-general-concepts.en.md) | 2026-08-05 |
+| 3 | [威脅、漏洞與緩解](security-plus/secplus-03-threats-mitigations.zh.md) | [Threats, Vulnerabilities, and Mitigations](security-plus/secplus-03-threats-mitigations.en.md) | 2026-08-05 |
+| 4 | [安全架構與設計](security-plus/secplus-04-security-architecture.zh.md) | [Security Architecture & Design](security-plus/secplus-04-security-architecture.en.md) | 2026-08-05 |
+| 5 | [安全營運（監控、加固、應變）](security-plus/secplus-05-security-operations.zh.md) | [Security Operations (Monitoring, Hardening, Response)](security-plus/secplus-05-security-operations.en.md) | 2026-08-05 |
+| 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
+| 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
 ## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (5 篇)
 
