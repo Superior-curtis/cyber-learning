@@ -11,7 +11,7 @@
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
 | **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 13 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 3 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 12 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 0 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 0 |
@@ -133,11 +133,11 @@
 | 4 | [SSRF、CSRF 與檔案上傳](websec/web-04-ssrf-csrf-upload.zh.md) | [SSRF, CSRF, and File Upload](websec/web-04-ssrf-csrf-upload.en.md) | 2026-08-05 |
 | 5 | [打造安全的 Web App / API](websec/web-05-securing-web-apps.zh.md) | [Building a Secure Web App / API](websec/web-05-securing-web-apps.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (3 篇)
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (12 篇)
 
 > The Kali toolchain, hands-on.
 
-### Kali & Tools / Kali 與工具  (3 篇)
+### Kali & Tools / Kali 與工具  (12 篇)
 
 > A tour of Kali Linux and hands-on security tools.
 
@@ -146,6 +146,15 @@
 | 1 | [Kali Linux 是什麼、合法使用與授權](kali/kali-01-what-is-kali.zh.md) | [Kali Linux: What It Is, Legal Use & Authorization](kali/kali-01-what-is-kali.en.md) | 2026-08-05 |
 | 2 | [安裝與建置自己的練習環境（VM / CTF）](kali/kali-02-install-lab.zh.md) | [Install & Build Your Own Practice Lab (VM / CTF)](kali/kali-02-install-lab.en.md) | 2026-08-05 |
 | 3 | [工具地圖：按類別總覽](kali/kali-03-tool-catalog.zh.md) | [The Tool Catalog: A Category Map](kali/kali-03-tool-catalog.en.md) | 2026-08-05 |
+| 4 | [Burp Suite：網頁測試](kali/kali-04-burp-suite.zh.md) | [Burp Suite: Web Testing](kali/kali-04-burp-suite.en.md) | 2026-08-05 |
+| 5 | [Wireshark：封包分析](kali/kali-05-wireshark.zh.md) | [Wireshark: Packet Analysis](kali/kali-05-wireshark.en.md) | 2026-08-05 |
+| 6 | [Metasploit：授權情境下的框架](kali/kali-06-metasploit.zh.md) | [Metasploit: The Framework, in Authorized Settings](kali/kali-06-metasploit.en.md) | 2026-08-05 |
+| 7 | [列舉工具：gobuster / ffuf / nikto](kali/kali-07-enumeration-tools.zh.md) | [Enumeration Tools: gobuster / ffuf / nikto](kali/kali-07-enumeration-tools.en.md) | 2026-08-05 |
+| 8 | [密碼工具實戰（hydra、hashcat）](kali/kali-08-password-tools.zh.md) | [Password Tools in Practice (hydra, hashcat)](kali/kali-08-password-tools.en.md) | 2026-08-05 |
+| 9 | [SQLmap：自動化注入測試](kali/kali-09-sqlmap.zh.md) | [SQLmap: Automated Injection Testing](kali/kali-09-sqlmap.en.md) | 2026-08-05 |
+| 10 | [Exploit-DB 與 searchsploit](kali/kali-10-exploitdb-searchsploit.zh.md) | [Exploit-DB & searchsploit](kali/kali-10-exploitdb-searchsploit.en.md) | 2026-08-05 |
+| 11 | [鑑識工具（strings / exiftool / binwalk / Autopsy）](kali/kali-11-forensics-tools.zh.md) | [Forensics Tools (strings / exiftool / binwalk / Autopsy)](kali/kali-11-forensics-tools.en.md) | 2026-08-05 |
+| 12 | [OSINT 工具（theHarvester / recon-ng / Maltego）](kali/kali-12-osint-tools.zh.md) | [OSINT Tools (theHarvester / recon-ng / Maltego)](kali/kali-12-osint-tools.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
