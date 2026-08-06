@@ -8,9 +8,9 @@
 |---|---|---|
 | **00** | **Foundations** / 資安基礎 | 5 |
 | **01** | **Linux Essentials** / Linux 基礎 | 9 |
-| **02** | **Networks & Crypto** / 網路與密碼學 | 0 |
+| **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
-| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 5 |
+| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 8 |
 | **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 0 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 0 |
@@ -52,9 +52,30 @@
 | 8 | [命令列網路工具（ip / ss / ports）](linux/linux-08-networking-cli.zh.md) | [Networking on the Command Line (ip / ss / ports)](linux/linux-08-networking-cli.en.md) | 2026-08-05 |
 | 9 | [Linux 加固基礎](linux/linux-09-hardening-basics.zh.md) | [Linux Hardening Basics](linux/linux-09-hardening-basics.en.md) | 2026-08-05 |
 
-## 02 · Networks & Crypto / 網路與密碼學 (0 篇)
+## 02 · Networks & Crypto / 網路與密碼學 (7 篇)
 
 > TCP/IP, TLS, Wi-Fi, and the cryptography behind password storage.
+
+### Networks / 網路安全  (4 篇)
+
+> TCP/IP, TLS, Wi-Fi, and firewalls/VPNs/proxies.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [TCP/IP、網段與埠](networking/net-01-network-fundamentals.zh.md) | [Network Fundamentals: TCP/IP, Subnets, and Ports](networking/net-01-network-fundamentals.en.md) | 2026-08-05 |
+| 2 | [TLS / HTTPS 深潛：鎖上的鎖是怎麼鎖上的](networking/net-02-tls-https.zh.md) | [TLS/HTTPS: How the Lock Gets Locked](networking/net-02-tls-https.en.md) | 2026-08-05 |
+| 3 | [Wi-Fi 安全：家用無線網路](networking/net-03-wifi-security.zh.md) | [Wi-Fi Security: Your Home Wireless Network](networking/net-03-wifi-security.en.md) | 2026-08-05 |
+| 4 | [防火牆、VPN 與代理](networking/net-04-firewalls-vpn-proxy.zh.md) | [Firewalls, VPNs, and Proxies](networking/net-04-firewalls-vpn-proxy.en.md) | 2026-08-05 |
+
+### Crypto / 密碼學  (3 篇)
+
+> Hash vs encryption, password hashing algorithms, asymmetric crypto.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [雜湊 vs 加密：差在哪](crypto/crypto-01-hash-vs-encryption.zh.md) | [Hash vs Encryption: What's the Difference?](crypto/crypto-01-hash-vs-encryption.en.md) | 2026-08-05 |
+| 2 | [密碼雜湊：bcrypt / argon2 為什麼贏](crypto/crypto-02-password-hashing.zh.md) | [Password Hashing: Why bcrypt and argon2 Win](crypto/crypto-02-password-hashing.en.md) | 2026-08-05 |
+| 3 | [對稱與非對稱加密、簽章](crypto/crypto-03-asymmetric-crypto.zh.md) | [Symmetric vs Asymmetric Crypto, and Signatures](crypto/crypto-03-asymmetric-crypto.en.md) | 2026-08-05 |
 
 ## 03 · Security+ Core / Security+ 基礎 (7 篇)
 
@@ -74,9 +95,19 @@
 | 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
 | 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
-## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (5 篇)
+## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (8 篇)
 
 > Recon, password attacks & defenses, and web application security.
+
+### Recon / 偵察與列舉  (3 篇)
+
+> OSINT, search techniques, and nmap scanning & enumeration.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [偵察與 OSINT：公開資訊的力量](recon/recon-01-recon-osint.zh.md) | [Recon & OSINT: The Power of Public Information](recon/recon-01-recon-osint.en.md) | 2026-08-05 |
+| 2 | [Google / Shodan 搜尋技巧](recon/recon-02-dorking.zh.md) | [Search Techniques: Google Dorks & Shodan](recon/recon-02-dorking.en.md) | 2026-08-05 |
+| 3 | [掃描與列舉：nmap 入門](recon/recon-03-scanning-nmap.zh.md) | [Scanning & Enumeration: nmap for Beginners](recon/recon-03-scanning-nmap.en.md) | 2026-08-05 |
 
 ### Passwords / 密碼安全  (5 篇)
 
