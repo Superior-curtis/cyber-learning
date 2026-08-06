@@ -16,6 +16,8 @@
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 10 |
 | **09** | **Blockchain Security** / 區塊鏈安全 | 4 |
+| **10** | **Malware Analysis** / 惡意軟體分析 | 3 |
+| **11** | **Cloud Security** / 雲端安全 | 3 |
 
 ## 00 · Foundations / 資安基礎 (5 篇)
 
@@ -242,6 +244,34 @@
 | 2 | [錢包、金鑰與交易](blockchain/chain-02-wallets-keys-transactions.zh.md) | [Wallets, Keys, and Transactions](blockchain/chain-02-wallets-keys-transactions.en.md) | 2026-08-05 |
 | 3 | [智能合約漏洞（概念性、教育性）](blockchain/chain-03-smart-contract-vulns.zh.md) | [Smart Contract Vulnerabilities (Conceptual, Educational)](blockchain/chain-03-smart-contract-vulns.en.md) | 2026-08-05 |
 | 4 | [區塊鏈安全實務](blockchain/chain-04-blockchain-security-practice.zh.md) | [Blockchain Security in Practice](blockchain/chain-04-blockchain-security-practice.en.md) | 2026-08-05 |
+
+## 10 · Malware Analysis / 惡意軟體分析 (3 篇)
+
+> What malware is, static analysis, and sandboxing.
+
+### Malware Analysis / 惡意軟體分析  (3 篇)
+
+> Malware families, static analysis, and sandboxing.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [惡意軟體：它是什麼](malware/mal-01-what-is-malware.zh.md) | [Malware: What It Is](malware/mal-01-what-is-malware.en.md) | 2026-08-05 |
+| 2 | [靜態分析：不執行也能看](malware/mal-02-static-analysis.zh.md) | [Static Analysis: Inspecting Without Running](malware/mal-02-static-analysis.en.md) | 2026-08-05 |
+| 3 | [沙箱與動態分析](malware/mal-03-sandbox-dynamic.zh.md) | [Sandboxing & Dynamic Analysis](malware/mal-03-sandbox-dynamic.en.md) | 2026-08-05 |
+
+## 11 · Cloud Security / 雲端安全 (3 篇)
+
+> Shared responsibility, misconfigurations, and securing the cloud.
+
+### Cloud Security / 雲端安全  (3 篇)
+
+> Shared responsibility, misconfigurations, and securing the cloud.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [雲端與共同責任模型](cloud/cloud-01-shared-responsibility.zh.md) | [Cloud & the Shared Responsibility Model](cloud/cloud-01-shared-responsibility.en.md) | 2026-08-05 |
+| 2 | [雲端設定錯誤](cloud/cloud-02-cloud-misconfigs.zh.md) | [Cloud Misconfigurations](cloud/cloud-02-cloud-misconfigs.en.md) | 2026-08-05 |
+| 3 | [雲端安全實務](cloud/cloud-03-securing-cloud.zh.md) | [Securing the Cloud](cloud/cloud-03-securing-cloud.en.md) | 2026-08-05 |
 
 > ⚠️ **Legal & ethical notice:** all techniques here are for **authorized testing of your own systems, CTF labs, and defensive research**. Unauthorized testing of systems you do not own is illegal in most jurisdictions. Always get written permission first.
 
