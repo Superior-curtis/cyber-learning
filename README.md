@@ -10,11 +10,12 @@
 | **01** | **Linux Essentials** / Linux 基礎 | 9 |
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
-| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 13 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 12 |
+| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 16 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 14 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 10 |
+| **09** | **Blockchain Security** / 區塊鏈安全 | 4 |
 
 ## 00 · Foundations / 資安基礎 (5 篇)
 
@@ -95,7 +96,7 @@
 | 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
 | 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
-## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (13 篇)
+## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (16 篇)
 
 > Recon, password attacks & defenses, and web application security.
 
@@ -121,7 +122,7 @@
 | 4 | [防禦：MFA、密碼管理器與鎖定策略](password/pass-04-defenses.zh.md) | [Defending: MFA, Password Managers, and Lockout](password/pass-04-defenses.en.md) | 2026-08-05 |
 | 5 | [真實外洩案例教訓](password/pass-05-real-breaches.zh.md) | [Lessons from Real Password Breaches](password/pass-05-real-breaches.en.md) | 2026-08-05 |
 
-### Web Security / Web 安全  (5 篇)
+### Web Security / Web 安全  (8 篇)
 
 > OWASP Top 10, injection, auth, and secure development.
 
@@ -132,12 +133,15 @@
 | 3 | [認證與 Session 安全](websec/web-03-auth-session.zh.md) | [Authentication & Session Security](websec/web-03-auth-session.en.md) | 2026-08-05 |
 | 4 | [SSRF、CSRF 與檔案上傳](websec/web-04-ssrf-csrf-upload.zh.md) | [SSRF, CSRF, and File Upload](websec/web-04-ssrf-csrf-upload.en.md) | 2026-08-05 |
 | 5 | [打造安全的 Web App / API](websec/web-05-securing-web-apps.zh.md) | [Building a Secure Web App / API](websec/web-05-securing-web-apps.en.md) | 2026-08-05 |
+| 6 | [IDOR 與存取控制](websec/web-06-idor-access-control.zh.md) | [IDOR & Access Control](websec/web-06-idor-access-control.en.md) | 2026-08-05 |
+| 7 | [業務邏輯漏洞](websec/web-07-business-logic.zh.md) | [Business Logic Flaws](websec/web-07-business-logic.en.md) | 2026-08-05 |
+| 8 | [XXE 與不安全的反序列化](websec/web-08-xxe-deserialization.zh.md) | [XXE & Insecure Deserialization](websec/web-08-xxe-deserialization.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (12 篇)
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (14 篇)
 
 > The Kali toolchain, hands-on.
 
-### Kali & Tools / Kali 與工具  (12 篇)
+### Kali & Tools / Kali 與工具  (14 篇)
 
 > A tour of Kali Linux and hands-on security tools.
 
@@ -155,6 +159,8 @@
 | 10 | [Exploit-DB 與 searchsploit](kali/kali-10-exploitdb-searchsploit.zh.md) | [Exploit-DB & searchsploit](kali/kali-10-exploitdb-searchsploit.en.md) | 2026-08-05 |
 | 11 | [鑑識工具（strings / exiftool / binwalk / Autopsy）](kali/kali-11-forensics-tools.zh.md) | [Forensics Tools (strings / exiftool / binwalk / Autopsy)](kali/kali-11-forensics-tools.en.md) | 2026-08-05 |
 | 12 | [OSINT 工具（theHarvester / recon-ng / Maltego）](kali/kali-12-osint-tools.zh.md) | [OSINT Tools (theHarvester / recon-ng / Maltego)](kali/kali-12-osint-tools.en.md) | 2026-08-05 |
+| 13 | [無線工具：Wi-Fi 測試](kali/kali-13-wireless-tools.zh.md) | [Wireless Tools: Wi-Fi Testing](kali/kali-13-wireless-tools.en.md) | 2026-08-05 |
+| 14 | [逆向工程工具（Ghidra / radare2）](kali/kali-14-reversing-tools.zh.md) | [Reverse-Engineering Tools (Ghidra / radare2)](kali/kali-14-reversing-tools.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
@@ -221,6 +227,21 @@
 | 1 | [學習路徑與練習場地](career/career-01-learning-path.zh.md) | [Learning Path & Practice Grounds](career/career-01-learning-path.en.md) | 2026-08-05 |
 | 2 | [證照與職涯](career/career-02-certifications.zh.md) | [Certifications & Careers](career/career-02-certifications.en.md) | 2026-08-05 |
 | 3 | [授權測試與法律 / 倫理](career/career-03-ethics-law.zh.md) | [Authorized Testing: Law & Ethics](career/career-03-ethics-law.en.md) | 2026-08-05 |
+
+## 09 · Blockchain Security / 區塊鏈安全 (4 篇)
+
+> Ledgers, keys, smart-contract flaws, and on-chain practice.
+
+### Blockchain / 區塊鏈安全  (4 篇)
+
+> Ledgers, keys, smart-contract flaws, and on-chain practice.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [區塊鏈基礎：一條不能改的帳本](blockchain/chain-01-blockchain-basics.zh.md) | [Blockchain Basics: A Ledger Nobody Can Rewrite](blockchain/chain-01-blockchain-basics.en.md) | 2026-08-05 |
+| 2 | [錢包、金鑰與交易](blockchain/chain-02-wallets-keys-transactions.zh.md) | [Wallets, Keys, and Transactions](blockchain/chain-02-wallets-keys-transactions.en.md) | 2026-08-05 |
+| 3 | [智能合約漏洞（概念性、教育性）](blockchain/chain-03-smart-contract-vulns.zh.md) | [Smart Contract Vulnerabilities (Conceptual, Educational)](blockchain/chain-03-smart-contract-vulns.en.md) | 2026-08-05 |
+| 4 | [區塊鏈安全實務](blockchain/chain-04-blockchain-security-practice.zh.md) | [Blockchain Security in Practice](blockchain/chain-04-blockchain-security-practice.en.md) | 2026-08-05 |
 
 > ⚠️ **Legal & ethical notice:** all techniques here are for **authorized testing of your own systems, CTF labs, and defensive research**. Unauthorized testing of systems you do not own is illegal in most jurisdictions. Always get written permission first.
 
