@@ -10,8 +10,8 @@
 | **01** | **Linux Essentials** / Linux 基礎 | 9 |
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
-| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 8 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 0 |
+| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 13 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 3 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 0 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 0 |
@@ -95,7 +95,7 @@
 | 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
 | 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
-## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (8 篇)
+## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (13 篇)
 
 > Recon, password attacks & defenses, and web application security.
 
@@ -121,9 +121,31 @@
 | 4 | [防禦：MFA、密碼管理器與鎖定策略](password/pass-04-defenses.zh.md) | [Defending: MFA, Password Managers, and Lockout](password/pass-04-defenses.en.md) | 2026-08-05 |
 | 5 | [真實外洩案例教訓](password/pass-05-real-breaches.zh.md) | [Lessons from Real Password Breaches](password/pass-05-real-breaches.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (0 篇)
+### Web Security / Web 安全  (5 篇)
+
+> OWASP Top 10, injection, auth, and secure development.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [OWASP Top 10 總覽](websec/web-01-owasp-top10.zh.md) | [The OWASP Top 10, Explained](websec/web-01-owasp-top10.en.md) | 2026-08-05 |
+| 2 | [注入：SQLi / XSS / 命令注入與防禦](websec/web-02-injection.zh.md) | [Injection: SQLi, XSS, Command Injection & Defenses](websec/web-02-injection.en.md) | 2026-08-05 |
+| 3 | [認證與 Session 安全](websec/web-03-auth-session.zh.md) | [Authentication & Session Security](websec/web-03-auth-session.en.md) | 2026-08-05 |
+| 4 | [SSRF、CSRF 與檔案上傳](websec/web-04-ssrf-csrf-upload.zh.md) | [SSRF, CSRF, and File Upload](websec/web-04-ssrf-csrf-upload.en.md) | 2026-08-05 |
+| 5 | [打造安全的 Web App / API](websec/web-05-securing-web-apps.zh.md) | [Building a Secure Web App / API](websec/web-05-securing-web-apps.en.md) | 2026-08-05 |
+
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (3 篇)
 
 > The Kali toolchain, hands-on.
+
+### Kali & Tools / Kali 與工具  (3 篇)
+
+> A tour of Kali Linux and hands-on security tools.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [Kali Linux 是什麼、合法使用與授權](kali/kali-01-what-is-kali.zh.md) | [Kali Linux: What It Is, Legal Use & Authorization](kali/kali-01-what-is-kali.en.md) | 2026-08-05 |
+| 2 | [安裝與建置自己的練習環境（VM / CTF）](kali/kali-02-install-lab.zh.md) | [Install & Build Your Own Practice Lab (VM / CTF)](kali/kali-02-install-lab.en.md) | 2026-08-05 |
+| 3 | [工具地圖：按類別總覽](kali/kali-03-tool-catalog.zh.md) | [The Tool Catalog: A Category Map](kali/kali-03-tool-catalog.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
