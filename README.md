@@ -14,7 +14,7 @@
 | **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 12 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
-| **08** | **Defense & Career** / 藍隊與職涯 | 0 |
+| **08** | **Defense & Career** / 藍隊與職涯 | 10 |
 
 ## 00 · Foundations / 資安基礎 (5 篇)
 
@@ -194,9 +194,33 @@
 | 8 | [Reverse / Pwn 基礎（概念性、教育性）](labs/lab-08-reverse-pwn-basics.zh.md) | [Reverse & Pwn Basics (Conceptual, Educational)](labs/lab-08-reverse-pwn-basics.en.md) | 2026-08-05 |
 | 9 | [攻略與練功的倫理準則](labs/lab-09-walkthrough-ethics.zh.md) | [Walkthroughs & Practice Ethics](labs/lab-09-walkthrough-ethics.en.md) | 2026-08-05 |
 
-## 08 · Defense & Career / 藍隊與職涯 (0 篇)
+## 08 · Defense & Career / 藍隊與職涯 (10 篇)
 
 > Hardening, detection, incident response, forensics, and how to enter the field.
+
+### Blue Team / 藍隊防禦  (7 篇)
+
+> Hardening, detection, incident response, and forensics.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [系統加固與安全設定](blueteam/blue-01-hardening.zh.md) | [System Hardening & Secure Config](blueteam/blue-01-hardening.en.md) | 2026-08-05 |
+| 2 | [日誌與 SIEM 偵測](blueteam/blue-02-logging-siem.zh.md) | [Logs & SIEM Detection](blueteam/blue-02-logging-siem.en.md) | 2026-08-05 |
+| 3 | [威脅情資](blueteam/blue-03-threat-intel.zh.md) | [Threat Intelligence](blueteam/blue-03-threat-intel.en.md) | 2026-08-05 |
+| 4 | [事件應變](blueteam/blue-04-incident-response.zh.md) | [Incident Response](blueteam/blue-04-incident-response.en.md) | 2026-08-05 |
+| 5 | [數位鑑識基礎](blueteam/blue-05-forensics.zh.md) | [Digital Forensics Basics](blueteam/blue-05-forensics.en.md) | 2026-08-05 |
+| 6 | [釣魚與社交工程防禦](blueteam/blue-06-phishing-defense.zh.md) | [Phishing & Social Engineering Defense](blueteam/blue-06-phishing-defense.en.md) | 2026-08-05 |
+| 7 | [IAM、MFA 與零信任](blueteam/blue-07-iam-zero-trust.zh.md) | [IAM, MFA, and Zero Trust](blueteam/blue-07-iam-zero-trust.en.md) | 2026-08-05 |
+
+### Career / 職涯與倫理  (3 篇)
+
+> Learning paths, certifications, ethics, and the law of authorized testing.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [學習路徑與練習場地](career/career-01-learning-path.zh.md) | [Learning Path & Practice Grounds](career/career-01-learning-path.en.md) | 2026-08-05 |
+| 2 | [證照與職涯](career/career-02-certifications.zh.md) | [Certifications & Careers](career/career-02-certifications.en.md) | 2026-08-05 |
+| 3 | [授權測試與法律 / 倫理](career/career-03-ethics-law.zh.md) | [Authorized Testing: Law & Ethics](career/career-03-ethics-law.en.md) | 2026-08-05 |
 
 > ⚠️ **Legal & ethical notice:** all techniques here are for **authorized testing of your own systems, CTF labs, and defensive research**. Unauthorized testing of systems you do not own is illegal in most jurisdictions. Always get written permission first.
 
