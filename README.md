@@ -13,7 +13,7 @@
 | **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 13 |
 | **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 12 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
-| **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 0 |
+| **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 0 |
 
 ## 00 · Foundations / 資安基礎 (5 篇)
@@ -174,9 +174,25 @@
 | 6 | [修補管理與供應鏈風險](cve/cve-06-patch-management.zh.md) | [Patch Management & Supply-Chain Risk](cve/cve-06-patch-management.en.md) | 2026-08-05 |
 | 7 | [Bug Bounty 基礎](cve/cve-07-bug-bounty.zh.md) | [Bug Bounty Basics](cve/cve-07-bug-bounty.en.md) | 2026-08-05 |
 
-## 07 · Practice Labs (free HackTheBox) / 實戰練習場 (0 篇)
+## 07 · Practice Labs (free HackTheBox) / 實戰練習場 (9 篇)
 
 > Build your own lab and learn CTF categories hands-on.
+
+### Practice Labs / 實戰練習場  (9 篇)
+
+> Build your own lab and practice CTF categories — a free HackTheBox-style path.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [建置自己的練習實驗室（VM + Kali + 靶機）](labs/lab-01-build-your-lab.zh.md) | [Build Your Own Practice Lab (VM + Kali + Targets)](labs/lab-01-build-your-lab.en.md) | 2026-08-05 |
+| 2 | [刻意脆弱的靶機（Metasploitable / DVWA / Juice Shop）](labs/lab-02-vulnerable-targets.zh.md) | [Deliberately Vulnerable Targets (Metasploitable / DVWA / Juice Shop)](labs/lab-02-vulnerable-targets.en.md) | 2026-08-05 |
+| 3 | [CTF 怎麼運作（旗標格式、題型、倫理）](labs/lab-03-ctf-101.zh.md) | [How CTF Works (Flag Formats, Categories, Ethics)](labs/lab-03-ctf-101.en.md) | 2026-08-05 |
+| 4 | [Crypto 題型入門](labs/lab-04-crypto-challenges.zh.md) | [Crypto Challenges, Introduced](labs/lab-04-crypto-challenges.en.md) | 2026-08-05 |
+| 5 | [Forensics 題型入門](labs/lab-05-forensics-challenges.zh.md) | [Forensics Challenges, Introduced](labs/lab-05-forensics-challenges.en.md) | 2026-08-05 |
+| 6 | [OSINT 題型入門](labs/lab-06-osint-challenges.zh.md) | [OSINT Challenges, Introduced](labs/lab-06-osint-challenges.en.md) | 2026-08-05 |
+| 7 | [Web 題型入門](labs/lab-07-web-challenges.zh.md) | [Web Challenges, Introduced](labs/lab-07-web-challenges.en.md) | 2026-08-05 |
+| 8 | [Reverse / Pwn 基礎（概念性、教育性）](labs/lab-08-reverse-pwn-basics.zh.md) | [Reverse & Pwn Basics (Conceptual, Educational)](labs/lab-08-reverse-pwn-basics.en.md) | 2026-08-05 |
+| 9 | [攻略與練功的倫理準則](labs/lab-09-walkthrough-ethics.zh.md) | [Walkthroughs & Practice Ethics](labs/lab-09-walkthrough-ethics.en.md) | 2026-08-05 |
 
 ## 08 · Defense & Career / 藍隊與職涯 (0 篇)
 
