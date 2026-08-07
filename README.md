@@ -11,7 +11,7 @@
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
 | **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 18 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 15 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 16 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 10 |
@@ -141,11 +141,11 @@
 | 7 | [業務邏輯漏洞](websec/web-07-business-logic.zh.md) | [Business Logic Flaws](websec/web-07-business-logic.en.md) | 2026-08-05 |
 | 8 | [XXE 與不安全的反序列化](websec/web-08-xxe-deserialization.zh.md) | [XXE & Insecure Deserialization](websec/web-08-xxe-deserialization.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (15 篇)
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (16 篇)
 
 > The Kali toolchain, hands-on.
 
-### Kali & Tools / Kali 與工具  (15 篇)
+### Kali & Tools / Kali 與工具  (16 篇)
 
 > A tour of Kali Linux and hands-on security tools.
 
@@ -166,6 +166,7 @@
 | 13 | [無線工具：Wi-Fi 測試](kali/kali-13-wireless-tools.zh.md) | [Wireless Tools: Wi-Fi Testing](kali/kali-13-wireless-tools.en.md) | 2026-08-05 |
 | 14 | [逆向工程工具（Ghidra / radare2）](kali/kali-14-reversing-tools.zh.md) | [Reverse-Engineering Tools (Ghidra / radare2)](kali/kali-14-reversing-tools.en.md) | 2026-08-05 |
 | 15 | [Social Engineering Toolkit（SET）：概念與防禦](kali/kali-15-social-engineering-toolkit.zh.md) | [The Social Engineering Toolkit (SET): Concepts & Defense](kali/kali-15-social-engineering-toolkit.en.md) | 2026-08-05 |
+| 16 | [Camphish：偽裝登入頁的邏輯與防禦](kali/kali-16-camphish.zh.md) | [Camphish: The Logic of Fake Login Pages & Defense](kali/kali-16-camphish.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
