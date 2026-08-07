@@ -50,6 +50,21 @@ Camphish runs as an interactive menu. Abstracted into "function," conceptually:
 
 > See it? Every menu item is essentially a part of "bringing the fake login page to life." Template = the look, server = the page itself, tunnel = the delivery. A defender who understands these three knows where to intercept.
 
+## Installing & running it in the homelab (your own environment only)
+
+The commands are the general usage shown in the public docs — but **only** inside an isolated environment you control:
+
+```bash
+# Install (as shown in the public docs)
+git clone https://github.com/techchipnet/CamPhish
+cd CamPhish
+bash camphish.sh
+```
+
+After launch an interactive menu appears: pick a template, start the server, then enter an ngrok authtoken to open the tunnel. Each menu step maps to the three-step logic above — disguise, expose, record.
+
+> Security note (HOMELAB ONLY): the commands above are permitted only inside your own isolated practice environment, with fake data only. Forwarding the generated URL or results to any real person is a credential-theft crime. You have 100% authorization over your own homelab; over nobody else.
+
 ## Authorized self-test example (your own environment only)
 
 If you want to turn "understanding the logic" into "verifying the defense," the correct use is in a **fully isolated environment with only yourself**:
