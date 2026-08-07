@@ -10,8 +10,8 @@
 | **01** | **Linux Essentials** / Linux 基礎 | 9 |
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
-| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 16 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 14 |
+| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 18 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 15 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 10 |
@@ -98,11 +98,11 @@
 | 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
 | 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
-## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (16 篇)
+## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (18 篇)
 
 > Recon, password attacks & defenses, and web application security.
 
-### Recon / 偵察與列舉  (3 篇)
+### Recon / 偵察與列舉  (5 篇)
 
 > OSINT, search techniques, and nmap scanning & enumeration.
 
@@ -111,6 +111,8 @@
 | 1 | [偵察與 OSINT：公開資訊的力量](recon/recon-01-recon-osint.zh.md) | [Recon & OSINT: The Power of Public Information](recon/recon-01-recon-osint.en.md) | 2026-08-05 |
 | 2 | [Google / Shodan 搜尋技巧](recon/recon-02-dorking.zh.md) | [Search Techniques: Google Dorks & Shodan](recon/recon-02-dorking.en.md) | 2026-08-05 |
 | 3 | [掃描與列舉：nmap 入門](recon/recon-03-scanning-nmap.zh.md) | [Scanning & Enumeration: nmap for Beginners](recon/recon-03-scanning-nmap.en.md) | 2026-08-05 |
+| 4 | [Shodan 深潛：搜尋連上網的裝置](recon/recon-04-shodan-deep-dive.zh.md) | [Shodan, Deeper: Searching the Internet of Devices](recon/recon-04-shodan-deep-dive.en.md) | 2026-08-05 |
+| 5 | [OSINT 網站與工具地圖](recon/recon-05-osint-sites.zh.md) | [OSINT Sites & Tools Map](recon/recon-05-osint-sites.en.md) | 2026-08-05 |
 
 ### Passwords / 密碼安全  (5 篇)
 
@@ -139,11 +141,11 @@
 | 7 | [業務邏輯漏洞](websec/web-07-business-logic.zh.md) | [Business Logic Flaws](websec/web-07-business-logic.en.md) | 2026-08-05 |
 | 8 | [XXE 與不安全的反序列化](websec/web-08-xxe-deserialization.zh.md) | [XXE & Insecure Deserialization](websec/web-08-xxe-deserialization.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (14 篇)
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (15 篇)
 
 > The Kali toolchain, hands-on.
 
-### Kali & Tools / Kali 與工具  (14 篇)
+### Kali & Tools / Kali 與工具  (15 篇)
 
 > A tour of Kali Linux and hands-on security tools.
 
@@ -163,6 +165,7 @@
 | 12 | [OSINT 工具（theHarvester / recon-ng / Maltego）](kali/kali-12-osint-tools.zh.md) | [OSINT Tools (theHarvester / recon-ng / Maltego)](kali/kali-12-osint-tools.en.md) | 2026-08-05 |
 | 13 | [無線工具：Wi-Fi 測試](kali/kali-13-wireless-tools.zh.md) | [Wireless Tools: Wi-Fi Testing](kali/kali-13-wireless-tools.en.md) | 2026-08-05 |
 | 14 | [逆向工程工具（Ghidra / radare2）](kali/kali-14-reversing-tools.zh.md) | [Reverse-Engineering Tools (Ghidra / radare2)](kali/kali-14-reversing-tools.en.md) | 2026-08-05 |
+| 15 | [Social Engineering Toolkit（SET）：概念與防禦](kali/kali-15-social-engineering-toolkit.zh.md) | [The Social Engineering Toolkit (SET): Concepts & Defense](kali/kali-15-social-engineering-toolkit.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
