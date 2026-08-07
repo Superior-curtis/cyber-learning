@@ -18,6 +18,7 @@
 | **09** | **Blockchain Security** / 區塊鏈安全 | 4 |
 | **10** | **Malware Analysis** / 惡意軟體分析 | 3 |
 | **11** | **Cloud Security** / 雲端安全 | 3 |
+| **12** | **Real-World Attack Case Studies** / 實戰案例 | 5 |
 
 ## 00 · Foundations / 資安基礎 (5 篇)
 
@@ -281,6 +282,22 @@
 | 1 | [雲端與共同責任模型](cloud/cloud-01-shared-responsibility.zh.md) | [Cloud & the Shared Responsibility Model](cloud/cloud-01-shared-responsibility.en.md) | 2026-08-05 |
 | 2 | [雲端設定錯誤](cloud/cloud-02-cloud-misconfigs.zh.md) | [Cloud Misconfigurations](cloud/cloud-02-cloud-misconfigs.en.md) | 2026-08-05 |
 | 3 | [雲端安全實務](cloud/cloud-03-securing-cloud.zh.md) | [Securing the Cloud](cloud/cloud-03-securing-cloud.en.md) | 2026-08-05 |
+
+## 12 · Real-World Attack Case Studies / 實戰案例 (5 篇)
+
+> Complete attack-chain walkthroughs that tie the chapters together.
+
+### Case Studies / 實戰案例  (5 篇)
+
+> Complete attack-chain walkthroughs tying the chapters together.
+
+| # | 文章 (中文) | English | 日期 |
+|---|---|---|---|
+| 1 | [撞庫：一條密碼，多個帳號](cases/case-01-credential-stuffing.zh.md) | [Credential Stuffing: One Password, Many Accounts](cases/case-01-credential-stuffing.en.md) | 2026-08-05 |
+| 2 | [一條 Web 攻擊鏈：從掃描到提權](cases/case-02-web-attack-chain.zh.md) | [A Web Attack Chain: From Scan to Root](cases/case-02-web-attack-chain.en.md) | 2026-08-05 |
+| 3 | [區域網路攻擊鏈：從廣播到破解](cases/case-03-lan-attack-chain.zh.md) | [A LAN Attack Chain: From Broadcast to Crack](cases/case-03-lan-attack-chain.en.md) | 2026-08-05 |
+| 4 | [勒索軟體感染鏈](cases/case-04-ransomware-chain.zh.md) | [The Ransomware Infection Chain](cases/case-04-ransomware-chain.en.md) | 2026-08-05 |
+| 5 | [雲端公開桶：一行設定洩漏百萬筆](cases/case-05-cloud-bucket-leak.zh.md) | [The Public Cloud Bucket: One Setting, Millions of Records](cases/case-05-cloud-bucket-leak.en.md) | 2026-08-05 |
 
 > ⚠️ **Legal & ethical notice:** all techniques here are for **authorized testing of your own systems, CTF labs, and defensive research**. Unauthorized testing of systems you do not own is illegal in most jurisdictions. Always get written permission first.
 
