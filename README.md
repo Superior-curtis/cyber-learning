@@ -10,7 +10,7 @@
 | **01** | **Linux Essentials** / Linux 基礎 | 9 |
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
-| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 18 |
+| **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 19 |
 | **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 20 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
@@ -98,7 +98,7 @@
 | 6 | [治理、風險與法遵](security-plus/secplus-06-governance-risk.zh.md) | [Governance, Risk, and Compliance](security-plus/secplus-06-governance-risk.en.md) | 2026-08-05 |
 | 7 | [概念複習與練習題](security-plus/secplus-07-practice-questions.zh.md) | [Concept Review & Practice Questions](security-plus/secplus-07-practice-questions.en.md) | 2026-08-05 |
 
-## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (18 篇)
+## 04 · Offensive Security (authorized / CTF) / 攻防基礎（授權 / CTF） (19 篇)
 
 > Recon, password attacks & defenses, and web application security.
 
@@ -126,7 +126,7 @@
 | 4 | [防禦：MFA、密碼管理器與鎖定策略](password/pass-04-defenses.zh.md) | [Defending: MFA, Password Managers, and Lockout](password/pass-04-defenses.en.md) | 2026-08-05 |
 | 5 | [真實外洩案例教訓](password/pass-05-real-breaches.zh.md) | [Lessons from Real Password Breaches](password/pass-05-real-breaches.en.md) | 2026-08-05 |
 
-### Web Security / Web 安全  (8 篇)
+### Web Security / Web 安全  (9 篇)
 
 > OWASP Top 10, injection, auth, and secure development.
 
@@ -140,6 +140,7 @@
 | 6 | [IDOR 與存取控制](websec/web-06-idor-access-control.zh.md) | [IDOR & Access Control](websec/web-06-idor-access-control.en.md) | 2026-08-05 |
 | 7 | [業務邏輯漏洞](websec/web-07-business-logic.zh.md) | [Business Logic Flaws](websec/web-07-business-logic.en.md) | 2026-08-05 |
 | 8 | [XXE 與不安全的反序列化](websec/web-08-xxe-deserialization.zh.md) | [XXE & Insecure Deserialization](websec/web-08-xxe-deserialization.en.md) | 2026-08-05 |
+| 9 | [OAuth 範圍濫用：相簿盜取的案例拆解](websec/web-09-oauth-scope-abuse.zh.md) | [OAuth Scope Abuse: The Album-Theft Case Study](websec/web-09-oauth-scope-abuse.en.md) | 2026-08-05 |
 
 ## 05 · Tools & Kali Linux / 工具與 Kali Linux (20 篇)
 
