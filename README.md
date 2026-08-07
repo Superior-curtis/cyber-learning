@@ -11,7 +11,7 @@
 | **02** | **Networks & Crypto** / 網路與密碼學 | 7 |
 | **03** | **Security+ Core** / Security+ 基礎 | 7 |
 | **04** | **Offensive Security (authorized / CTF)** / 攻防基礎（授權 / CTF） | 19 |
-| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 20 |
+| **05** | **Tools & Kali Linux** / 工具與 Kali Linux | 21 |
 | **06** | **Vulnerabilities & CVEs** / 漏洞與 CVE | 7 |
 | **07** | **Practice Labs (free HackTheBox)** / 實戰練習場 | 9 |
 | **08** | **Defense & Career** / 藍隊與職涯 | 10 |
@@ -143,11 +143,11 @@
 | 8 | [XXE 與不安全的反序列化](websec/web-08-xxe-deserialization.zh.md) | [XXE & Insecure Deserialization](websec/web-08-xxe-deserialization.en.md) | 2026-08-05 |
 | 9 | [OAuth 範圍濫用：相簿盜取的案例拆解](websec/web-09-oauth-scope-abuse.zh.md) | [OAuth Scope Abuse: The Album-Theft Case Study](websec/web-09-oauth-scope-abuse.en.md) | 2026-08-05 |
 
-## 05 · Tools & Kali Linux / 工具與 Kali Linux (20 篇)
+## 05 · Tools & Kali Linux / 工具與 Kali Linux (21 篇)
 
 > The Kali toolchain, hands-on.
 
-### Kali & Tools / Kali 與工具  (20 篇)
+### Kali & Tools / Kali 與工具  (21 篇)
 
 > A tour of Kali Linux and hands-on security tools.
 
@@ -173,6 +173,7 @@
 | 18 | [nmap 完整實戰：主機發現到 NSE 腳本](kali/kali-18-nmap.zh.md) | [nmap, Fully: Host Discovery to NSE Scripts](kali/kali-18-nmap.en.md) | 2026-08-05 |
 | 19 | [Responder 與中間人攻擊：邏輯與防禦](kali/kali-19-responder-mitm.zh.md) | [Responder & Man-in-the-Middle: Logic and Defense](kali/kali-19-responder-mitm.en.md) | 2026-08-05 |
 | 20 | [提權：從低權限到 root 的邏輯與防禦](kali/kali-20-privilege-escalation.zh.md) | [Privilege Escalation: The Logic from Low-Priv to root, and Defense](kali/kali-20-privilege-escalation.en.md) | 2026-08-05 |
+| 21 | [VoIP 通話嗅探：Wireshark 重組錄音](kali/kali-21-voip-sniffing.zh.md) | [VoIP Call Sniffing: Reassembling Audio with Wireshark](kali/kali-21-voip-sniffing.en.md) | 2026-08-05 |
 
 ## 06 · Vulnerabilities & CVEs / 漏洞與 CVE (7 篇)
 
